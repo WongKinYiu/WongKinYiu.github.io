@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi-Ting Huang"
-  avatar           : "yiting.jpg"
+  name             : "Chien-Yao Wang"
+  avatar           : "kinyiu.jpg"
   bio              : " " #"Your biography for the left-hand sidebar"
   location         :  #"Location"
   employer         :
-  googlescholar    : "https://scholar.google.com.tw/citations?user=uZIy830AAAAJ&hl=en"
-  email            : "ythuang@iis.sinica.edu.tw"
+  googlescholar    : "https://scholar.google.com.tw/citations?user=DkQh4M4AAAAJ&hl=en"
+  email            : "kinyiu@iis.sinica.edu.tw"
   uri              :
   bitbucket        :
   codepen          :
