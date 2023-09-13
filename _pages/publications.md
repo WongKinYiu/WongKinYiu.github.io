@@ -38,7 +38,7 @@ Selected Conference
 
 Selected Technical Report
 ======
-* Bochkovskiy Alexey\*, <strong><U>Chien-Yao Wang\*</U></strong>, and Hong-Yuan Mark Liao. “YOLOv4: Optimal Speed and Accuracy of Object Detection,” <I>arXiv preprint arXiv:2004.10934</I>, 2020.
+* Bochkovskiy Alexey\*, <strong><U>Chien-Yao Wang*</U></strong>, and Hong-Yuan Mark Liao. “YOLOv4: Optimal Speed and Accuracy of Object Detection,” <I>arXiv preprint arXiv:2004.10934</I>, 2020.
   <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2004.10934)</span>
   <span style="color:#4285F4">[[code(darknet)]](https://github.com/AlexeyAB/darknet)</span>
   <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
