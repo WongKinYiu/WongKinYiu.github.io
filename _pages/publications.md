@@ -66,7 +66,7 @@ Selected Conference
 
 * Yu-Cheng Liu, Jian-Jiun Ding, Yao-Jen Chang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang, “Action Recognition Using Three Dimension Convolution and Long Short Term Memory,” <I>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</I>, 2017.
 
-*<strong><U>Chien-Yao Wang</U></strong>, Jyun-Hong Li, Seksan Mathulaprangsan, Chin-Chin Chiang, and Jia-Ching Wang, “Hierarchical Joint-guided Networks for Semantic Image Segmentation,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
+* <strong><U>Chien-Yao Wang</U></strong>, Jyun-Hong Li, Seksan Mathulaprangsan, Chin-Chin Chiang, and Jia-Ching Wang, “Hierarchical Joint-guided Networks for Semantic Image Segmentation,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
 
 * <strong><U>Chien-Yao Wang</U></strong>, Chin-Chin Chiang, Jian-Jiun Ding, and Jia-Ching Wang, “Dynamic Tracking Attention Model for Action Recognition,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
 
