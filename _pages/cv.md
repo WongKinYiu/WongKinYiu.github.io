@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D., CSIE, NCU
+* Ph.D., Computer Science and Information Engineering, National Central University
 
 Experience
 ======
@@ -24,9 +24,3 @@ Experience
 Research interests
 ======
 Machine Learning, Deep Learning, Computer Vision, Signal Processing.
-
-Awards & Honors
-======
-* 
-
-
