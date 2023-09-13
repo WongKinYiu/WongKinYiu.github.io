@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Chien-Yao Wang.
+<strong>Chien-Yao Wang</strong> received the Ph.D. degree in Computer Science and Information Engineering from National Central University, Zhongli, Taiwan, in 2017. He is currently an Assistant Research Fellow with the Institute of Information Science, Academia Sinica, Taiwan. His research interests include signal processing, deep learning, and machine learning. Currently, his research focuses on multi-task representation learning for multi-modal signal.
