@@ -39,16 +39,27 @@ Selected Conference
   <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
 
 * Yu-Hsi Chen, <strong><U>Chien-Yao Wang</U></strong>, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao, “NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2023.
+  <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/html/Chen_NeighborTrack_Single_Object_Tracking_by_Bipartite_Matching_With_Neighbor_Tracklets_CVPRW_2023_paper.html)</span> 
+  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/franktpmvu/NeighborTrack)</span>
 
-* Zhong-Min Tsai, Yu-Ju Tsai, <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Liao, Youn-Long Lin, Yung-Yu Chuang, “SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features,” <I>British Machine Vision Conference (BMVC)</I>, 2022.
+* Zhong-Min Tsai\*, Yu-Ju Tsai\*, <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Liao, Youn-Long Lin, Yung-Yu Chuang, “SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features,” <I>British Machine Vision Conference (BMVC)</I>, 2022.
+  <span style="color:#4285F4">[[paper]](https://bmvc2022.mpi-inf.mpg.de/55/)</span> 
+  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/qa276390/SearchTrack)</span>
+  <br> <strong>\* indicates equal contributions.</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, I-Hau Yeh, Yung-Yu Chuang, and Youn-Long Lin, “Exploring the power of lightweight YOLOv4,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2021.
 
 * <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao, “Scaled-YOLOv4: Scaling Cross Stage Partial Network,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2021.
+  <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)</span> 
+  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/ScaledYOLOv4)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Yueh-Hua Wu, Ping-Yang Chen, Jun-Wei Hsieh, and I-Hau Yeh, “CSPNet: A New Backbone that can Enhance Learning Capability of CNN,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2020.
+  <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.html)</span> 
+  <span style="color:#4285F4">[[code(darknet)]](https://github.com/WongKinYiu/CrossStagePartialNetworks)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Ping-Yang Chen, and Jun-Wei Hsieh, “Enriching Variety of Layer-wise Learning Information by Gradient Combination,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2019.
+  <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/LPCV/Wang_Enriching_Variety_of_Layer-Wise_Learning_Information_by_Gradient_Combination_ICCVW_2019_paper.html)</span> 
+  <span style="color:#4285F4">[[code(darknet)]](https://github.com/WongKinYiu/PartialResidualNetworks)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Pei-Sin Liaw, Kai-Wen Liang, Jai-Ching Wang, and Pao-Chi Chang, “Video Captioning Based on Joint Image-Audio Deep Learning Techniques,” <I>IEEE International Conference on Consumer Electronics – Berlin (ICCE- Berlin)</I>, 2019.
 
