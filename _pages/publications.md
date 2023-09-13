@@ -63,7 +63,7 @@ Selected Conference
 
 * <strong><U>Chien-Yao Wang</U></strong>, Pei-Sin Liaw, Kai-Wen Liang, Jai-Ching Wang, and Pao-Chi Chang, “Video Captioning Based on Joint Image-Audio Deep Learning Techniques,” <I>IEEE International Conference on Consumer Electronics – Berlin (ICCE- Berlin)</I>, 2019.
 
-* Kuan-Chung Wang, <trong><U>Chien-Yao Wang</U></strong>, Tzu-Chiang Tai, and Jia-Ching Wang, “Object Bounding Transformed Network for End-to-End Semantic Segmentation,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2019.
+* Kuan-Chung Wang, <strong><U>Chien-Yao Wang</U></strong>, Tzu-Chiang Tai, and Jia-Ching Wang, “Object Bounding Transformed Network for End-to-End Semantic Segmentation,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2019.
 
 * Fattah Azzuhry Rahadian, Wahyono Wahyono, Agus Harjoko, Jia-Ching Wang, and <strong><U>Chien-Yao Wang</U></strong>, “CoNet: Compact and Low-Cost CNN for Image Classification,” <I>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</I>, 2019.
 
