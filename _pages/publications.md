@@ -16,7 +16,7 @@ Selected Journal
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, and I-Hau Yeh, “Designing Network Design Strategies Through Gradient Path Analysis,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2662)</span>
   <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
-  
+
 * <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao, “You Only Learn One Representation: Unified Network for Multiple Tasks,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023. 
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2654)</span>
   <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolor)</span>
@@ -32,9 +32,64 @@ Selected Journal
 
 Selected Conference
 ======
+* Kai-Wen Liang, Pin-Hsuan Li, Chung-Hsun Lo, <strong><U>Chien-Yao Wang</U></strong>, Yung-Fang Chen, Jia-Ching Wang, Pao-Chi Chang. “3D Face Reconstruction based on Weakly-Supervised Learning Morphable Face Model,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2023.
+
 * <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao. “YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.html)</span> 
   <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
+
+* Yu-Hsi Chen, <strong><U>Chien-Yao Wang</U></strong>, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao, “NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2023.
+
+* Zhong-Min Tsai, Yu-Ju Tsai, <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Liao, Youn-Long Lin, Yung-Yu Chuang, “SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features,” <I>British Machine Vision Conference (BMVC)</I>, 2022.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, I-Hau Yeh, Yung-Yu Chuang, and Youn-Long Lin, “Exploring the power of lightweight YOLOv4,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2021.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao, “Scaled-YOLOv4: Scaling Cross Stage Partial Network,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2021.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Yueh-Hua Wu, Ping-Yang Chen, Jun-Wei Hsieh, and I-Hau Yeh, “CSPNet: A New Backbone that can Enhance Learning Capability of CNN,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2020.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Ping-Yang Chen, and Jun-Wei Hsieh, “Enriching Variety of Layer-wise Learning Information by Gradient Combination,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2019.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Pei-Sin Liaw, Kai-Wen Liang, Jai-Ching Wang, and Pao-Chi Chang, “Video Captioning Based on Joint Image-Audio Deep Learning Techniques,” <I>IEEE International Conference on Consumer Electronics – Berlin (ICCE- Berlin)</I>, 2019.
+
+* Kuan-Chung Wang, <trong><U>Chien-Yao Wang</U></strong>, Tzu-Chiang Tai, and Jia-Ching Wang, “Object Bounding Transformed Network for End-to-End Semantic Segmentation,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2019.
+
+* Fattah Azzuhry Rahadian, Wahyono Wahyono, Agus Harjoko, Jia-Ching Wang, and <strong><U>Chien-Yao Wang</U></strong>, “CoNet: Compact and Low-Cost CNN for Image Classification,” <I>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</I>, 2019.
+
+* Yu-Chi Wu, Pao-Chi Chang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang, “Asymmetric Kernel Convolutional Neural Network for Acoustic Scenes Classification,” <I>IEEE International Symposium on Consumer Electronics (ISCE)</I>, 2017.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Andri Santoso, and Jia-Ching Wang, “Acoustic Scene Classification Using Self-Determination Convolutional Neural Network,” <I>Asia-Pacific Signal and Information Processing Association (APSIPA)</I>, 2017.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Andri Santoso, Seksan Mathulaprangsan, Chin‑Chin Chiang, Chung‑Hsien Wu, Jia‑Ching Wang, “Recognition and Retrieval of Sound Events Using Sparse Coding Convolutional Neural Networks,” <I>IEEE International Conference on Multimedia & Expo (ICME)</I>, 2017.
+
+* Po‑Jen Chen, Jian‑Jiun Ding, Hung‑Wei Hsu, <strong><U>Chien-Yao Wang</U></strong>, and Jia‑Ching Wang, “Improved Convolutional Neural Network Based Scene Classification using Long Short‐Term Memory and Label Relations,” <I>IEEE International Conference on Multimedia & Expo Workshops (ICMEW)</I>, 2017.
+
+* Yu-Cheng Liu, Jian-Jiun Ding, Yao-Jen Chang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang, “Action Recognition Using Three Dimension Convolution and Long Short Term Memory,” <I>IEEE International Conference on Consumer Electronics - Taiwan (ICCE-TW)</I>, 2017.
+
+*<strong><U>Chien-Yao Wang</U></strong>, Jyun-Hong Li, Seksan Mathulaprangsan, Chin-Chin Chiang, and Jia-Ching Wang, “Hierarchical Joint-guided Networks for Semantic Image Segmentation,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Chin-Chin Chiang, Jian-Jiun Ding, and Jia-Ching Wang, “Dynamic Tracking Attention Model for Action Recognition,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
+
+* Yuan-Shan Lee, <strong><U>Chien-Yao Wang</U></strong>, Shu-Fan Wang, Jia-Ching Wang, and Chung-Hsien Wu, “Fully Complex Deep Neural Network for Phase-incorporating Monaural Source Separation,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2017.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Seksan Mathulaprangsan, Bo-Wei Chen, Yu-Hao Chin, Jing-Jia Shiu, Yu-San Lin, and Jia-Ching Wang, “Robust Face Verification via Bayesian Sparse Representation,” <I>Asia-Pacific Signal and Information Processing Association (APSIPA)</I>, 2016.
+
+* Yuan-Shan Lee, <strong><U>Chien-Yao Wang</U></strong>, Seksan Mathulaprangsan, Jia Hao Zhao, and Jia-Ching Wang, “Locality Preserving K-SVD via Joint Dictionary and Classifier Learning for Object Recognition,” <I>ACM Multimedia (ACMMM)</I>, 2016.
+
+* Chang-Di Huang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang, “Human Action Recognition System for Elderly and Children Care Using Three Stream ConvNet,” <I>International Conference on Orange Technologies (ICOT)</I>, 2015.
+
+* Seksan Mathulaprangsan, <strong><U>Chien-Yao Wang</U></strong>, Aufaclav Zatu Kusum, Tzu-Chiang Tai, and Jia-Ching Wang, “A Survey of Visual Lip Reading and Lip-Password Verification,” <I>International Conference on Orange Technologies (ICOT)</I>, 2015.
+
+* Ari Hernawan, Yuan-Shan Lee, Andri Santoso, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang, “Bayesian Sensing Hidden Markov Model for Hand Gesture Recognition,” <I>ASE International Conference on Social Informatics</I>, 2015.
+
+* Aufaclav Zatu Kusuma Frisky, <strong><U>Chien-Yao Wang</U></strong>, Andri Santoso, and Jia-Ching Wang, “Lip-Based Visual Speech Recognition System,” <I>IEEE International Carnahan Conference on Security Technology (ICCST)</I>, 2015.
+
+* Andri Santoso, <strong><U>Chien-Yao Wang</U></strong>, Tzu-Chiang Tai, and Jia-Ching Wang, “Kernel Sparse Representation Classifier with Center Enhanced SPM for Vehicle Classification,” <I>IEEE Computer Software and Applications Conference (COMPSAC)</I>, 2015.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Min Shih, Tzu-Chiang Tai, Po-Chuan Lin, Shih-Ting Huang, Jia-Hao Zhao, and Jia-Ching Wang, “VLSI Design for SC-Based Speaker Recognition,” <I>IEEE International Conference on Industry Electronic Application (ICIEA)</I>, 2015.
+
+* <strong><U>Chien-Yao Wang</U></strong>, Yu-Hao Chin, Tzu-Chiang Tai, David Gunawan, and Jia-Ching Wang, “Automatic Recognition of Audio Event Using Dynamic Local Binary Patterns,” <I>IEEE International Conference on Consumer Electronics-Taiwan (ICCE-TW)</I>, 2015.
+  
 
 Selected Technical Report
 ======
