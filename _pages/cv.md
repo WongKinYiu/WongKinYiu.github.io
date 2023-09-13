@@ -23,4 +23,7 @@ Experience
 
 Research interests
 ======
-Machine Learning, Deep Learning, Computer Vision, Signal Processing.
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Signal Processing
