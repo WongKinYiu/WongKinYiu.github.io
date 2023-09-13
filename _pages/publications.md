@@ -16,19 +16,24 @@ Selected Journal
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, and I-Hau Yeh, “Designing Network Design Strategies Through Gradient Path Analysis,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2662)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
+  <br> <strong>[Invited Paper]</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao, “You Only Learn One Representation: Unified Network for Multiple Tasks,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023. 
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2654)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolor)</span>
+  <br> <strong>[Invited Paper]</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Pao-Chi Chang, Jian-Jiun Ding, Tzu-Chiang Tai, Andri Santoso, Yu-Ting Liu, and Jia-Ching Wang, “Spectral-Temporal Receptive Field Based Descriptors and Hierarchical Cascade Deep Belief Network for Guitar Playing Technique Classification,” <I>IEEE Transactions on Cybernetics</I>, 2022.
   <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/9198935)</span>
+  <br> <strong>[IF = 19.118]</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Tzu-Chiang Tai, Jia-Ching Wang, Andri Santoso, Seksan Mathulaprangsan, Chin-Chin Chiang, and Chung-Hsien Wu, “Sound Events Recognition and Retrieval Using Multi-Channel Sparse Coding Convolutional Neural Networks,” <I>IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</I>, 2020.
   <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/8952659)</span>
+  <br> <strong>[IF = 3.919]</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, Andri Santoso, Chin-Chin Chiang, and Chung-Hsien Wu, “Sound Event Recognition Using Auditory-Receptive-Field Binary Pattern and Hierarchical-Diving Deep Belief Network,” <I>IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</I>, 2018.
   <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/8007276)</span>
+  <br> <strong>[IF = 3.531]</strong>
 
 Selected Conference
 ======
@@ -79,6 +84,8 @@ Selected Conference
 -->
 
 * <strong><U>Chien-Yao Wang</U></strong>, Andri Santoso, Seksan Mathulaprangsan, Chin‑Chin Chiang, Chung‑Hsien Wu, Jia‑Ching Wang, “Recognition and Retrieval of Sound Events Using Sparse Coding Convolutional Neural Networks,” <I>IEEE International Conference on Multimedia & Expo (ICME)</I>, 2017.
+  <br> <strong><span style="color:#EA4335">[Finalist of the World's FIRST 10K Best Paper Award]</span></strong>
+  <br> <strong><span style="color:#EA4335">[Nomination for Best Student Paper Award]</span></strong>
 
 <!--* Po‑Jen Chen, Jian‑Jiun Ding, Hung‑Wei Hsu, <strong><U>Chien-Yao Wang</U></strong>, and Jia‑Ching Wang, “Improved Convolutional Neural Network Based Scene Classification using Long Short‐Term Memory and Label Relations,” <I>IEEE International Conference on Multimedia & Expo Workshops (ICMEW)</I>, 2017.
 -->
