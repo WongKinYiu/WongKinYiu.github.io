@@ -15,11 +15,11 @@ Selected Journal
 ======
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, and I-Hau Yeh, “Designing Network Design Strategies Through Gradient Path Analysis,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2662)</span>
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao, “You Only Learn One Representation: Unified Network for Multiple Tasks,” <I>Journal of Information Science and Engineering (JISE)</I>, 2023. 
   <span style="color:#4285F4">[[paper]](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=190_2654)</span>
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolor)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolor)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Pao-Chi Chang, Jian-Jiun Ding, Tzu-Chiang Tai, Andri Santoso, Yu-Ting Liu, and Jia-Ching Wang, “Spectral-Temporal Receptive Field Based Descriptors and Hierarchical Cascade Deep Belief Network for Guitar Playing Technique Classification,” <I>IEEE Transactions on Cybernetics</I>, 2022.
   <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/9198935)</span>
@@ -36,30 +36,30 @@ Selected Conference
 
 * <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao. “YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.html)</span> 
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
 
 * Yu-Hsi Chen, <strong><U>Chien-Yao Wang</U></strong>, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao, “NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/html/Chen_NeighborTrack_Single_Object_Tracking_by_Bipartite_Matching_With_Neighbor_Tracklets_CVPRW_2023_paper.html)</span> 
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/franktpmvu/NeighborTrack)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/franktpmvu/NeighborTrack)</span>
 
 * Zhong-Min Tsai\*, Yu-Ju Tsai\*, <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Liao, Youn-Long Lin, Yung-Yu Chuang, “SearchTrack: Multiple Object Tracking with Object-Customized Search and Motion-Aware Features,” <I>British Machine Vision Conference (BMVC)</I>, 2022.
   <span style="color:#4285F4">[[paper]](https://bmvc2022.mpi-inf.mpg.de/55/)</span> 
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/qa276390/SearchTrack)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/qa276390/SearchTrack)</span>
   <br> <strong>\* indicates equal contributions.</strong>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, I-Hau Yeh, Yung-Yu Chuang, and Youn-Long Lin, “Exploring the power of lightweight YOLOv4,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2021.
 
 * <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao, “Scaled-YOLOv4: Scaling Cross Stage Partial Network,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2021.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)</span> 
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/ScaledYOLOv4)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/ScaledYOLOv4)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Yueh-Hua Wu, Ping-Yang Chen, Jun-Wei Hsieh, and I-Hau Yeh, “CSPNet: A New Backbone that can Enhance Learning Capability of CNN,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2020.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.html)</span> 
-  <span style="color:#4285F4">[[code(darknet)]](https://github.com/WongKinYiu/CrossStagePartialNetworks)</span>
+  <span style="color:#4285F4">[[code (darknet)]](https://github.com/WongKinYiu/CrossStagePartialNetworks)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Ping-Yang Chen, and Jun-Wei Hsieh, “Enriching Variety of Layer-wise Learning Information by Gradient Combination,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2019.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/LPCV/Wang_Enriching_Variety_of_Layer-Wise_Learning_Information_by_Gradient_Combination_ICCVW_2019_paper.html)</span> 
-  <span style="color:#4285F4">[[code(darknet)]](https://github.com/WongKinYiu/PartialResidualNetworks)</span>
+  <span style="color:#4285F4">[[code (darknet)]](https://github.com/WongKinYiu/PartialResidualNetworks)</span>
 
 * <strong><U>Chien-Yao Wang</U></strong>, Pei-Sin Liaw, Kai-Wen Liang, Jai-Ching Wang, and Pao-Chi Chang, “Video Captioning Based on Joint Image-Audio Deep Learning Techniques,” <I>IEEE International Conference on Consumer Electronics – Berlin (ICCE- Berlin)</I>, 2019.
 
@@ -106,6 +106,6 @@ Selected Technical Report
 ======
 * Bochkovskiy Alexey\*, <strong><U>Chien-Yao Wang*</U></strong>, and Hong-Yuan Mark Liao. “YOLOv4: Optimal Speed and Accuracy of Object Detection,” <I>arXiv preprint arXiv:2004.10934</I>, 2020.
   <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2004.10934)</span>
-  <span style="color:#4285F4">[[code(darknet)]](https://github.com/AlexeyAB/darknet)</span>
-  <span style="color:#4285F4">[[code(PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
+  <span style="color:#4285F4">[[code (darknet)]](https://github.com/AlexeyAB/darknet)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
   <br> <strong>\* indicates equal contributions.</strong>
