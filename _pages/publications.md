@@ -133,3 +133,8 @@ Selected Technical Report
   <span style="color:#4285F4">[[code (darknet)]](https://github.com/AlexeyAB/darknet)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
   <br> <strong>\* indicates equal contributions.</strong>
+
+  
+* <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao. “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” <I>arXiv preprint arXiv:2402.13616</I>, 2024.
+  <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2402.13616)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov9)</span>
