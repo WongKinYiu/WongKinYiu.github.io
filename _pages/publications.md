@@ -37,14 +37,19 @@ Selected Journal
 
 Selected Conference
 ======
+  
+* <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao. “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” <I>European Conference on Computer Vision (ECCV)</I>, 2024.
+  <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2402.13616)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov9)</span>
+  
 <!--* Kai-Wen Liang, Pin-Hsuan Li, Chung-Hsun Lo, <strong><U>Chien-Yao Wang</U></strong>, Yung-Fang Chen, Jia-Ching Wang, Pao-Chi Chang. “3D Face Reconstruction based on Weakly-Supervised Learning Morphable Face Model,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2023.
 -->
 
-* <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao. “YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2023.
+* <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao. “YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors,” <I>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_YOLOv7_Trainable_Bag-of-Freebies_Sets_New_State-of-the-Art_for_Real-Time_Object_Detectors_CVPR_2023_paper.html)</span> 
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov7)</span>
 
-* Yu-Hsi Chen, <strong><U>Chien-Yao Wang</U></strong>, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao, “NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2023.
+* Yu-Hsi Chen, <strong><U>Chien-Yao Wang</U></strong>, Cheng-Yun Yang, Hung-Shuo Chang, Youn-Long Lin, Yung-Yu Chuang, Hong-Yuan Mark Liao, “NeighborTrack: Improving Single Object Tracking by Bipartite Matching with Neighbor Tracklets,” <I>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2023.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/html/Chen_NeighborTrack_Single_Object_Tracking_by_Bipartite_Matching_With_Neighbor_Tracklets_CVPRW_2023_paper.html)</span> 
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/franktpmvu/NeighborTrack)</span>
 
@@ -53,19 +58,19 @@ Selected Conference
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/qa276390/SearchTrack)</span>
   <br> <strong>\* indicates equal contributions.</strong>
 
-* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, I-Hau Yeh, Yung-Yu Chuang, and Youn-Long Lin, “Exploring the power of lightweight YOLOv4,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2021.
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, I-Hau Yeh, Yung-Yu Chuang, and Youn-Long Lin, “Exploring the power of lightweight YOLOv4,” <I>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</I>, 2021.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/ICCV2021W/LPCV/html/Wang_Exploring_the_Power_of_Lightweight_YOLOv4_ICCVW_2021_paper.html)</span> 
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolor)</span>
 
-* <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao, “Scaled-YOLOv4: Scaling Cross Stage Partial Network,” <I>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2021.
+* <strong><U>Chien-Yao Wang</U></strong>, Bochkovskiy Alexey, and Hong-Yuan Mark Liao, “Scaled-YOLOv4: Scaling Cross Stage Partial Network,” <I>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</I>, 2021.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)</span> 
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/ScaledYOLOv4)</span>
 
-* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Yueh-Hua Wu, Ping-Yang Chen, Jun-Wei Hsieh, and I-Hau Yeh, “CSPNet: A New Backbone that can Enhance Learning Capability of CNN,” <I>IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2020.
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Yueh-Hua Wu, Ping-Yang Chen, Jun-Wei Hsieh, and I-Hau Yeh, “CSPNet: A New Backbone that can Enhance Learning Capability of CNN,” <I>IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</I>, 2020.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_CVPRW_2020/html/w28/Wang_CSPNet_A_New_Backbone_That_Can_Enhance_Learning_Capability_of_CVPRW_2020_paper.html)</span> 
   <span style="color:#4285F4">[[code (darknet)]](https://github.com/WongKinYiu/CrossStagePartialNetworks)</span>
 
-* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Ping-Yang Chen, and Jun-Wei Hsieh, “Enriching Variety of Layer-wise Learning Information by Gradient Combination,” <I>IEEE International Conference on Computer Vision Workshops (ICCVW)</I>, 2019.
+* <strong><U>Chien-Yao Wang</U></strong>, Hong-Yuan Mark Liao, Ping-Yang Chen, and Jun-Wei Hsieh, “Enriching Variety of Layer-wise Learning Information by Gradient Combination,” <I>IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</I>, 2019.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content_ICCVW_2019/html/LPCV/Wang_Enriching_Variety_of_Layer-Wise_Learning_Information_by_Gradient_Combination_ICCVW_2019_paper.html)</span> 
   <span style="color:#4285F4">[[code (darknet)]](https://github.com/WongKinYiu/PartialResidualNetworks)</span>
 
@@ -133,8 +138,3 @@ Selected Technical Report
   <span style="color:#4285F4">[[code (darknet)]](https://github.com/AlexeyAB/darknet)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
   <br> <strong>\* indicates equal contributions.</strong>
-
-  
-* <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao. “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” <I>arXiv preprint arXiv:2402.13616</I>, 2024.
-  <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2402.13616)</span>
-  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov9)</span>
