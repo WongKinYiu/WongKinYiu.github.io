@@ -38,6 +38,11 @@ Selected Journal
 Selected Conference
 ======
   
+
+* Hao-Tang Tsui, <strong><U>Chien-Yao Wang</U></strong>, and Hong-Yuan Mark Liao . “YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary,” <I>International Conference on Learning Representations (ICLR)</I>, 2025.
+
+* Hung-Shuo Chang, <strong><U>Chien-Yao Wang</U></strong>, Richard Robert Wang, Gene Chou, and Hong-Yuan Mark Liao. “Generalist YOLO: Towards Real-Time End-to-End Multi-Task Visual Language Models,” <I>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</I>, 2025.
+  
 * <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao. “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” <I>European Conference on Computer Vision (ECCV)</I>, 2024.
   <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2402.13616)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov9)</span>
