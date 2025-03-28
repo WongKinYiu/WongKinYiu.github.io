@@ -43,9 +43,12 @@ Selected Conference
 ======
   
 
-* Hao-Tang Tsui, <strong><U>Chien-Yao Wang</U></strong>, and Hong-Yuan Mark Liao . “YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary,” <I>International Conference on Learning Representations (ICLR)</I>, 2025.
+* Hao-Tang Tsui, <strong><U>Chien-Yao Wang</U></strong>, and Hong-Yuan Mark Liao. “YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary,” <I>International Conference on Learning Representations (ICLR)</I>, 2025.
   <span style="color:#4285F4">[[paper]](https://openreview.net/forum?id=KXDOmD7DM7)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/MultimediaTechLab/YOLO)</span>
+
+* Shan-Ya Yang, Hao-Chung Cheng, <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, Chun-Yi Lee. “A Key to Effective Multi-task Learning: Separate Query Selection for Task-Synergized Handling and Node Utilization,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2025.
+  <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/10888498)</span>
 
 * Hung-Shuo Chang, <strong><U>Chien-Yao Wang</U></strong>, Richard Robert Wang, Gene Chou, and Hong-Yuan Mark Liao. “Generalist YOLO: Towards Real-Time End-to-End Multi-Task Visual Language Models,” <I>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</I>, 2025.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Chang_Generalist_YOLO_Towards_Real-Time_End-to-End_Multi-Task_Visual_Language_Models_WACV_2025_paper.pdf)</span>
