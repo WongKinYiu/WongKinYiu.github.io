@@ -163,7 +163,7 @@ Selected Technical Report
   <br> <strong>\* indicates equal contributions.</strong>
 
 
-Cross-Disciplinary Research
+Selected Cross-Disciplinary Research
 ======
 * Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, and Yi-Ting Huang. “Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring,” <I>Annual Meeting of the Association for Computational Linguistics (ACL)</I>, 2025.
   <br> <strong>[Long Paper]</strong>
