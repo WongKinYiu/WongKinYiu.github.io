@@ -41,22 +41,29 @@ Selected Journal
 
 Selected Conference
 ======
-  
-
 * Hao-Tang Tsui, <strong><U>Chien-Yao Wang</U></strong>, and Hong-Yuan Mark Liao. “YOLO-RD: Introducing Relevant and Compact Explicit Knowledge to YOLO by Retriever-Dictionary,” <I>International Conference on Learning Representations (ICLR)</I>, 2025.
   <span style="color:#4285F4">[[paper]](https://openreview.net/forum?id=KXDOmD7DM7)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/MultimediaTechLab/YOLO)</span>
 
 * Shan-Ya Yang, Hao-Chung Cheng, <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, Chun-Yi Lee. “A Key to Effective Multi-task Learning: Separate Query Selection for Task-Synergized Handling and Node Utilization,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2025.
   <span style="color:#4285F4">[[paper]](https://ieeexplore.ieee.org/document/10888498)</span>
+  
+<!--* Ying-Li Lin, Hao-Chung Cheng, Chung-I Huang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang. “Impact of Glyph Information on Latent Space Diffusion Models for Accurate Handwritten Text Generation,” <I>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</I>, 2025.
+-->
 
 * Hung-Shuo Chang, <strong><U>Chien-Yao Wang</U></strong>, Richard Robert Wang, Gene Chou, and Hong-Yuan Mark Liao. “Generalist YOLO: Towards Real-Time End-to-End Multi-Task Visual Language Models,” <I>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)</I>, 2025.
   <span style="color:#4285F4">[[paper]](https://openaccess.thecvf.com/content/WACV2025/papers/Chang_Generalist_YOLO_Towards_Real-Time_End-to-End_Multi-Task_Visual_Language_Models_WACV_2025_paper.pdf)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/GeneralistYOLO)</span>
   
+<!--* Chao-Wang Huang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang. “mmAlphabet: Air Writing Alphabet Recognition System Based on mmWave FMCW Radar and Convolutional Neural Network,” <I>International Conference on Pattern Recognition (ICPR)</I>, 2024.
+-->
+  
 * <strong><U>Chien-Yao Wang</U></strong>, I-Hau Yeh, and Hong-Yuan Mark Liao. “YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information,” <I>European Conference on Computer Vision (ECCV)</I>, 2024.
   <span style="color:#4285F4">[[paper]](https://arxiv.org/abs/2402.13616)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/yolov9)</span>
+  
+<!--* Ming-Zheng Peng, Hao-Chung Cheng, Phuong-Thi Le, Cheng-Chun Wang, <strong><U>Chien-Yao Wang</U></strong>, and Jia-Ching Wang. “Scene Text Recognition Using Progressive Rectification Network And Spelling Error Correction Language Model,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2024.
+-->
   
 <!--* Kai-Wen Liang, Pin-Hsuan Li, Chung-Hsun Lo, <strong><U>Chien-Yao Wang</U></strong>, Yung-Fang Chen, Jia-Ching Wang, Pao-Chi Chang. “3D Face Reconstruction based on Weakly-Supervised Learning Morphable Face Model,” <I>IEEE International Conference on Image Processing (ICIP)</I>, 2023.
 -->
@@ -154,3 +161,19 @@ Selected Technical Report
   <span style="color:#4285F4">[[code (darknet)]](https://github.com/AlexeyAB/darknet)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/WongKinYiu/PyTorch_YOLOv4)</span>
   <br> <strong>\* indicates equal contributions.</strong>
+
+
+Cross-Disciplinary Research
+======
+* Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, and Yi-Ting Huang. “Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring,” <I>Annual Meeting of the Association for Computational Linguistics (ACL)</I>, 2025.
+  <br> <strong>[Long Paper]</strong>
+  <span style="color:#4285F4">[[paper]](https://2025.aclweb.org/program/main_papers)</span>
+  <span style="color:#4285F4">[[project]](https://antslabtw.github.io/MOOSE)</span>
+  <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/antslabtw/MOOSE-AES)</span>
+
+* Tsan-Ting Hsu, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>, and Yi-Ping Hsueh, “Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization, and social behaviors,” <I>PLOS Biology</I>, 2024.
+  <br> <strong>[IF = 7.2]</strong>
+  <span style="color:#4285F4">[[paper]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002646)</span>
+  <span style="color:#4285F4">[[code]](https://github.com/HsuehYiPing/Tbr1Amyg)</span>
+
+  
