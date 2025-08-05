@@ -167,7 +167,7 @@ Selected Cross-Disciplinary Research
 ======
 * Po-Kai Chen, Bo-Wei Tsai, Shao Kuan Wei, <strong><U>Chien-Yao Wang</U></strong>, Jia-Ching Wang, and Yi-Ting Huang. “Mixture of Ordered Scoring Experts for Cross-prompt Essay Trait Scoring,” <I>Annual Meeting of the Association for Computational Linguistics (ACL)</I>, 2025.
   <br> <strong>[Long Paper]</strong>
-  <span style="color:#4285F4">[[paper]](https://2025.aclweb.org/program/main_papers)</span>
+  <span style="color:#4285F4">[[paper]](https://aclanthology.org/2025.acl-long.884)</span>
   <span style="color:#4285F4">[[project]](https://antslabtw.github.io/MOOSE)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/antslabtw/MOOSE-AES)</span>
 
