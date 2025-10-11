@@ -171,6 +171,12 @@ Selected Cross-Disciplinary Research
   <span style="color:#4285F4">[[project]](https://antslabtw.github.io/MOOSE)</span>
   <span style="color:#4285F4">[[code (PyTorch)]](https://github.com/antslabtw/MOOSE-AES)</span>
 
+* Yi-Ping Hsueh, Tsan-Ting Hsu, Chih-Ping Chen, Ming-Hui Lin, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>\*, and Tzu-En Hung, “Shared and Divergent Alteration of Whole-Brain Connectivity and Sensory Deficits in Multiple Autism Mouse Models,” <I>Molecular Psychiatry</I>, 2025.
+  <br> <strong>[IF = 10.1]</strong>
+  <span style="color:#4285F4">[[paper (comming soon)]]()</span>
+  <span style="color:#4285F4">[[code (comming soon)]]()</span>
+  <br> <strong>\* indicates co-coresponding author</strong>
+
 * Tsan-Ting Hsu, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>, and Yi-Ping Hsueh, “Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization, and social behaviors,” <I>PLOS Biology</I>, 2024.
   <br> <strong>[IF = 7.2]</strong>
   <span style="color:#4285F4">[[paper]](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002646)</span>
