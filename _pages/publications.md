@@ -175,7 +175,7 @@ Selected Cross-Disciplinary Research
   <br> <strong>[IF = 10.1]</strong>
   <span style="color:#4285F4">[[paper (comming soon)]]()</span>
   <span style="color:#4285F4">[[code (comming soon)]]()</span>
-  <br> <strong>\* indicates coresponding author</strong>
+  <br> <strong>\* indicates corresponding author</strong>
 
 * Tsan-Ting Hsu, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>, and Yi-Ping Hsueh, “Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization, and social behaviors,” <I>PLOS Biology</I>, 2024.
   <br> <strong>[IF = 7.2]</strong>
