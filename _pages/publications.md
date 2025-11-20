@@ -173,8 +173,8 @@ Selected Cross-Disciplinary Research
 
 * Tsan-Ting Hsu, Chih-Ping Chen, Ming-Hui Lin, Tzu-En Hung, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>\*, and Yi-Ping Hsueh\*, “Shared and Divergent Alteration of Whole-Brain Connectivity and Sensory Deficits in Multiple Autism Mouse Models,” <I>Molecular Psychiatry</I>, 2025.
   <br> <strong>[IF = 10.1]</strong>
-  <span style="color:#4285F4">[[paper (comming soon)]]()</span>
-  <span style="color:#4285F4">[[code (comming soon)]]()</span>
+  <span style="color:#4285F4">[[paper]](https://www.nature.com/articles/s41380-025-03340-2)</span>
+  <span style="color:#4285F4">[[code]](https://github.com/genephil/dlreg)</span>
   <br> <strong>\* indicates corresponding author</strong>
 
 * Tsan-Ting Hsu, Tzyy-Nan Huang, <strong><U>Chien-Yao Wang</U></strong>, and Yi-Ping Hsueh, “Deep brain stimulation of the Tbr1-deficient mouse model of autism spectrum disorder at the basolateral amygdala alters amygdalar connectivity, whole-brain synchronization, and social behaviors,” <I>PLOS Biology</I>, 2024.
